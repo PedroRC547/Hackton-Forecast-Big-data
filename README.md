@@ -94,6 +94,7 @@ Geramos uma grade com todos os pares PDV/SKU que venderam em 2022 e aplicamos o 
 
 <img width="1044" height="700" alt="image" src="https://github.com/user-attachments/assets/f3c06de0-98b8-4abb-addd-779755f6c4ca" />
 
+<img width="1031" height="360" alt="image" src="https://github.com/user-attachments/assets/d89ab43d-fb6b-4151-9086-95343e2adc5b" />
 
 
 
